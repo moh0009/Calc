@@ -13,7 +13,7 @@ setup(
     version = "1.0",
     description = "calculator",
     long_description = open("Readme.txt").read()+"\n\n"+open("changelog.txt").read(),
-    url ="" ,
+    url ="https://github.com/moh0009/Calc" ,
     author="moh0009",
     author_email = "23ii.mancy@gmail.com",
     license = "MIT",
