@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: moh0009-calc
+Version: 1.0
+Summary: calculator
+Home-page: https://github.com/moh0009/Calc
+Author: moh0009
+Author-email: 23ii.mancy@gmail.com
+License: MIT
+Keywords: calculator,calc
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+
+Readme.md
+
