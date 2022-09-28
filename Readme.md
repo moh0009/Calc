@@ -21,4 +21,4 @@ the output well be ```17```
 for any issues write it [here]("https://github.com/moh0009/Calc/issues")
 <br>
 
-see my [replit]("https://replit.com/@moh0009") and my a[github]("https://github.com/moh0009")
+see my [replit]("https://replit.com/@moh0009") and my [github]("https://github.com/moh0009")
