@@ -22,3 +22,5 @@ for any issues write it [here]("https://github.com/moh0009/Calc/issues")
 <br>
 
 see my [replit]("https://replit.com/@moh0009") and my [github]("https://github.com/moh0009")
+
+this is for learning how to add packages in pypi
